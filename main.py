@@ -30,6 +30,8 @@ GitHub. Работодатели такое оценят.
 
 text = template_text.replace("%friend_name%",friend_name)
 text = text.replace("%my_name%",my_name)
+text = text.replace("%my_name%",my_name)
+text = text.replace("%my_name%",my_name)
 text = text.replace("%website%",website)
 
 
